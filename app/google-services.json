@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "309881246953",
+    "firebase_url": "https://bd-hotels.firebaseio.com",
+    "project_id": "bd-hotels",
+    "storage_bucket": "bd-hotels.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309881246953:android:6e3562938981103b470c78",
+        "android_client_info": {
+          "package_name": "com.androbd.bdhotels"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "309881246953-ql94ut4gg33eocb0g255ht7mn5kgiipi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.androbd.bdhotels",
+            "certificate_hash": "d240549adf784805ec9d4d6703f4b0a450002493"
+          }
+        },
+        {
+          "client_id": "309881246953-4qf9lu5f482b33ll2o1cuogagek4jbqe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8kuaS71usv1WAe-IkkmEuOxJ0_3C-f9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "309881246953-4qf9lu5f482b33ll2o1cuogagek4jbqe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
